@@ -26,7 +26,7 @@ Personal project exploring forward I–V characteristics of a silicon rectifier 
 - Extracted **Shockley params**: VT, IS (see `data/` and `report/`)
 
 ## 🧪 Bench Setup
-![Breadboard Setup 1](images/setup_1.jpg)
-![Breadboard Setup 2](images/setup_2.jpg)
+![Breadboard Setup 1](images/setup_1.jpeg)
+![Breadboard Setup 2](images/setup_2.jpeg)
 
 ## 📁 Repo Layout
